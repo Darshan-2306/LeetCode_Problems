@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
