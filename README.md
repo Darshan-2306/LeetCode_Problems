@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0050-powx-n) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
