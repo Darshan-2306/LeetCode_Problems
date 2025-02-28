@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
