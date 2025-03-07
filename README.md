@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
@@ -76,4 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
