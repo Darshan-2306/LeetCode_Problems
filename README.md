@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1791-richest-customer-wealth](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
