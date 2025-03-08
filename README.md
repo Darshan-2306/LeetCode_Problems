@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
