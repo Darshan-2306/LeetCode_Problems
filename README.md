@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
