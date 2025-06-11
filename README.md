@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [3194-find-words-containing-character](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
