@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [3194-find-words-containing-character](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
