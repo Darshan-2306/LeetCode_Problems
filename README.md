@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [3194-find-words-containing-character](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 ## Queue
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
