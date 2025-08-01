@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0645-set-mismatch) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/Darshan-2306/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
